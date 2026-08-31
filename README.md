@@ -4,9 +4,9 @@
 <br>
 
 <div align="center">
-  Full-Stack Developer and Modding Enthusiast.
+  full-stack developer and modding enthusiast.
   <br>
-  I enjoy creating solutions for problems no one cares about.
+  i enjoy creating solutions for problems no one cares about.
 
   <br>
   <br>
@@ -15,11 +15,19 @@
     <img src="https://img.shields.io/badge/PATREON-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
   </a>
 
+  <a href="https://buymeacoffee.com/patrickisaway">
+    <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
+  </a>
+
   <a href="https://www.nexusmods.com/profile/patrickisaway">
     <img src="./nexusmods-badge.svg" alt="Nexus Mods">
   </a>
 
-  <a href="https://bsky.app/profile/ptrckisaway.bsky.social">
+  <a href="https://x.com/patrickisaway">
+  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+</a>
+
+  <a href="https://bsky.app/profile/patrickisaway.bsky.social">
     <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
   </a>
 </div>
